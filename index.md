@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Hi, we're Anthrax and Naudile!
 
-You can use the [editor on GitHub](https://github.com/BlastLabs/blastlabs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Blast Labs is a decentralized, autonomous organization (DAO) for pseudonymous hackers, artists, and builders to experiment with crypto tools and protocols.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're creative technologists who have built fintech startups, created IRL and digital art, and managed massive machine learning systems.  We believe crypto is the start of a new world of fat, global, decentralized protocols and apps run by egalitarian communities of builders and nomads.  Bitcoin and Ethereum are just the early start of this lit new world, and we are the fastest and wildest prototypers of what that could be.
 
-### Markdown
+We created Blast Labs as a totally remote and distributed digital collective.  We invite people who make stuff to join and collaborate on projects.  We are looking for: digital artists, Solidity programmers, meme queens, social media stars, full stack coders (C#, C++, Java, Javascript, Lua, Python), and designers to help on current and future projects.  If you want to join, fill this out.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BlastLabs/blastlabs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### We can be reached via Twitter or email.
